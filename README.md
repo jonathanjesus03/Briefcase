@@ -35,7 +35,7 @@
 
 ## Contacto
 
-- 📧 Puedes escribirme a mi [Correo electrónico](jesusjbjonathan@gmail.com) -> jesusjbjonathan@gmail.com
+- 📧 Puedes escribirme a mi correo -> jesusjbjonathan@gmail.com
 - 🔗 Conéctate conmigo en [LinkedIn](www.linkedin.com/in/jonathanj-pen/)
 
 ¡Gracias por visitar mi portafolio! Si deseas colaborar en proyectos relacionados con la ciberseguridad o tienes alguna pregunta sobre mis auditorías, ¡no dudes en contactarme!
