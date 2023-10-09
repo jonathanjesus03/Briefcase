@@ -36,6 +36,6 @@
 ## Contacto
 
 - 📧 Puedes escribirme a mi correo -> jesusjbjonathan@gmail.com
-- 🔗 Conéctate conmigo en LinkedIn -> !!! Jonathan Jesus Jacinto Badillo !!!
+- 🔗 Conéctate conmigo en LinkedIn -> [Jonathan Jesus Jacinto Badillo]()
 
 ¡Gracias por visitar mi portafolio! Si deseas colaborar en proyectos relacionados con la ciberseguridad o tienes alguna pregunta sobre mis auditorías, ¡no dudes en contactarme!
