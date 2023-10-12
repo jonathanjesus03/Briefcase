@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        body {
+            background-color: #1b1b1b; /* Fondo oscuro */
+            color: #fff; /* Texto blanco */
+            font-family: Arial, sans-serif; /* Tipo de letra */
+            padding: 20px;
+            margin: 0;
+        }
+        h1 {
+            color: #ff9900; /* Color de título personalizado */
+        }
+        /* Puedes personalizar otros elementos según tus preferencias */
+    </style>
 </head>
   
 <body>
