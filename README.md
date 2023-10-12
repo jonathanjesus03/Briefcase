@@ -1,8 +1,11 @@
-<style>
-  @import url('https://github.com/jonathanjesus03/Briefcase/blob/e54e3faedd5f7875a761cf3d590b3b717b07b175/style.css');
-</style>
-
-# Portafolio de Auditorías Documentadas 📂
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+  
+<body>
+<h1>Portafolio de Auditorías Documentadas 📂</h1>
 
 ¡Bienvenido a mi portafolio de auditorías documentadas! Aquí encontrarás una recopilación de mis proyectos y auditorías de seguridad en el campo de la ciberseguridad. Estoy emocionado de compartir mi trabajo contigo y demostrar mis habilidades en este emocionante campo.
 
@@ -52,3 +55,5 @@
 - 🔗 Conéctate conmigo en LinkedIn -> [Jonathan Jesus Jacinto Badillo](https://www.linkedin.com/in/jonathanj-pe/) <-- HAZ CLICK !!!
 
 ¡Gracias por visitar mi portafolio! Si deseas colaborar en proyectos relacionados con la ciberseguridad o tienes alguna pregunta sobre mis auditorías, ¡no dudes en contactarme!
+</body>
+</html>
