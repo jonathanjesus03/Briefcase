@@ -30,8 +30,8 @@
 
 ## Mis Certificaciones
 
-- 📜 Certificado **Pentester Mentor Junior (PMJ)** (Obtenido el 12 de octubre de 2023).
-- 📜 Certificado **Ethical Hacking Certified Associate (EHCA)** (Obtenido el 12 de octubre de 2023).
+- 📜 Certificado **Pentester Mentor Junior (PMJ)** (Obtenido el 20 de octubre de 2023).
+- 📜 Certificado **Ethical Hacking Certified Associate (EHCA)** (Obtenido el 20 de octubre de 2023).
 
 ## Contacto
 
