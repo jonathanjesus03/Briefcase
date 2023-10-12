@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-  
-<body>
 # Portafolio de Auditorías Documentadas 📂
 
 ¡Bienvenido a mi portafolio de auditorías documentadas! Aquí encontrarás una recopilación de mis proyectos y auditorías de seguridad en el campo de la ciberseguridad. Estoy emocionado de compartir mi trabajo contigo y demostrar mis habilidades en este emocionante campo.
@@ -54,5 +48,3 @@
 - 🔗 Conéctate conmigo en LinkedIn -> [Jonathan Jesus Jacinto Badillo](https://www.linkedin.com/in/jonathanj-pe/) <-- HAZ CLICK !!!
 
 ¡Gracias por visitar mi portafolio! Si deseas colaborar en proyectos relacionados con la ciberseguridad o tienes alguna pregunta sobre mis auditorías, ¡no dudes en contactarme!
-</body>
-</html>
